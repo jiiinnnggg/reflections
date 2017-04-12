@@ -1,11 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
-    Start all the git shit goin playa. git init that muhfucka.
+    Start all the git s*** goin playa. git init that muhf****.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-    It's like the pre-cum equivalent of the commit, you haven't busted your nut yet but it's ready.
+    It's like the pre-c** equivalent of the commit, you haven't b***ed your nut yet but it's ready.
 
 How can you use the staging area to make sure you have one commit per logical change?
-    Just check the code, idiot.
+    Just check the code.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
     Different modes of your code, different experimental versions, etc.
